@@ -1,13 +1,12 @@
-# app-carrossel
+# Aplicação de Fotos
+
+## APP CARROSSEL
  
 ---
-## Pros cria
 
-``` 
-    <icon src="res/icone.png" />
+__*Aplicativo extremamente incrível, basta baixar em seu smartphone ou tablet e aproveitar o máximo!!*__
 
-    <preference name="SplashScreen" value="screen" />
-    <splash src="res/splash.jpg" />
-    <preference name="SplashScreenDelay" value="3000" />
-    <preference name="SplashMaintainAspectRatio" value="true" />
-```
+## Técnologias Utilizadas:
+- HTML
+- CSS
+- JAVASCRIPT
